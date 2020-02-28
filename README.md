@@ -1,4 +1,4 @@
-![SymPi] (/img/sympi.png)
+! [SymPi] (/img/SymPI.png)
 
 # SymPi 
 
