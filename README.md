@@ -1,4 +1,4 @@
-! [SymPi] (/img/SymPI.png)
+! [SymPi] (https://github.com/Tech-Shujan/SymPi/blob/master/img/SymPI.png?raw=true)
 
 # SymPi 
 
